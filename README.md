@@ -16,7 +16,7 @@ Building scalable, modern, and high-performance web experiences.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=BEMO2002&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Mohmed-khder&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
@@ -126,9 +126,9 @@ Modern scalable platforms with clean UI implementation.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BEMO2002&show_icons=true&theme=transparent"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohmed-khder&show_icons=true&theme=transparent"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEMO2002&layout=compact&theme=transparent"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmed-khder&layout=compact&theme=transparent"/>
 
 </p>
 
@@ -138,7 +138,7 @@ Modern scalable platforms with clean UI implementation.
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=BEMO2002&theme=transparent"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Mohmed-khder&theme=transparent"/>
 
 </p>
 
@@ -148,7 +148,7 @@ Modern scalable platforms with clean UI implementation.
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BEMO2002&theme=github-compact"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohmed-khder&theme=github-compact"/>
 
 </p>
 
@@ -158,7 +158,7 @@ Modern scalable platforms with clean UI implementation.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BEMO2002&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mohmed-khder&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -168,7 +168,7 @@ Modern scalable platforms with clean UI implementation.
 
 <p align="center">
 
-<a href="https://github.com/BEMO2002">
+<a href="https://github.com/Mohmed-khder">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
